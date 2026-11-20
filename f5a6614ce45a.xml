@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>שבץ מוחי בקיצור</title>
+    <link>https://johnn12389.github.io/xknsvpwwtpcz/</link>
+    <language>he</language>
+    <description>פודקאסט לימודי בעברית על שבץ מוחי ומחלות כלי דם במוח לרופאים, מתמחים וסטודנטים התוכן מופק אוטומטית באמצעות בינה מלאכותית ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+    <itunes:author>שבץ מוחי בקיצור</itunes:author>
+    <itunes:summary>פודקאסט לימודי בעברית על שבץ מוחי ומחלות כלי דם במוח לרופאים, מתמחים וסטודנטים התוכן מופק אוטומטית באמצעות בינה מלאכותית ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:block>Yes</itunes:block>
+    <googleplay:block>yes</googleplay:block>
+    <itunes:image href="https://johnn12389.github.io/xknsvpwwtpcz/cover.jpg"/>
+    <itunes:category text="Health &amp; Fitness">
+      <itunes:category text="Medicine"/>
+    </itunes:category>
+    <itunes:category text="Science"/>
+    <itunes:owner>
+      <itunes:name>שבץ מוחי בקיצור</itunes:name>
+    </itunes:owner>
+    <atom:link href="https://johnn12389.github.io/xknsvpwwtpcz/f5a6614ce45a.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>שבץ מוחי פרק 15 – אחרי השלב החריף, שבץ בחוט השדרה ומומים וסקולריים</title>
+      <description>בצקת ממאירה והמיקרניאקטומיה, אוטם צרבלרי מסכן חיים, סיבוכים באשפוז, שיקום והחלמה, אוטם בחוט השדרה, AVM, פיסטולות דורליות וקברנומות – פרק הסיום של הסדרה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>בצקת ממאירה והמיקרניאקטומיה, אוטם צרבלרי מסכן חיים, סיבוכים באשפוז, שיקום והחלמה, אוטם בחוט השדרה, AVM, פיסטולות דורליות וקברנומות – פרק הסיום של הסדרה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st15_b5831158.mp3" length="30342106" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st15_b5831158.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:15:00 +0000</pubDate>
+      <itunes:duration>00:30:40</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 14 – דימום תת-עכבישי ומפרצות</title>
+      <description>כאב ראש רעם, אבחון ב-CT ובניקור מותני, הבטחת המפרצת בסליל או בקליפס, וזוספאזם ואיסכמיה מאוחרת, ומה עושים עם מפרצת שהתגלתה במקרה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>כאב ראש רעם, אבחון ב-CT ובניקור מותני, הבטחת המפרצת בסליל או בקליפס, וזוספאזם ואיסכמיה מאוחרת, ומה עושים עם מפרצת שהתגלתה במקרה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st14_a660601e.mp3" length="30928876" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st14_a660601e.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:14:00 +0000</pubDate>
+      <itunes:duration>00:31:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 13 – דימום תוך-מוחי</title>
+      <description>יתר לחץ דם ו-CAA, דימום על נוגדי קרישה והיפוכם, מיקומים קלאסיים ותמונה קלינית, לחץ דם, ניתוח מול טיפול שמרני וחידוש נוגדי קרישה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>יתר לחץ דם ו-CAA, דימום על נוגדי קרישה והיפוכם, מיקומים קלאסיים ותמונה קלינית, לחץ דם, ניתוח מול טיפול שמרני וחידוש נוגדי קרישה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st13_2e95c885.mp3" length="31656944" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st13_2e95c885.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:13:00 +0000</pubDate>
+      <itunes:duration>00:32:02</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 12 – מצבי קרישיות יתר ופקקת ורידים מוחית</title>
+      <description>תרומבופיליות תורשתיות ונרכשות, תסמונת אנטיפוספוליפידית, סרטן ושבץ, ופקקת סינוסים ורידיים: מי, איך מאבחנים ואיך מטפלים | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>תרומבופיליות תורשתיות ונרכשות, תסמונת אנטיפוספוליפידית, סרטן ושבץ, ופקקת סינוסים ורידיים: מי, איך מאבחנים ואיך מטפלים | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st12_15badaf0.mp3" length="31055958" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st12_15badaf0.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:12:00 +0000</pubDate>
+      <itunes:duration>00:31:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 11 – שבץ בצעירים וגורמים לא-טרשתיים</title>
+      <description>דיסקציה, moyamoya, FMD, RCVS, וסקוליטיס, סמים, מיגרנה ושבץ, CADASIL, Fabry, ו-PFO אצל הצעיר | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>דיסקציה, moyamoya, FMD, RCVS, וסקוליטיס, סמים, מיגרנה ושבץ, CADASIL, Fabry, ו-PFO אצל הצעיר | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st11_4bf189dd.mp3" length="30316997" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st11_4bf189dd.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:11:00 +0000</pubDate>
+      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 10 – מחלה טרשתית של הקרוטיס והעורקים התוך-גולגולתיים</title>
+      <description>קרוטיס סימפטומטית וא-סימפטומטית, CEA מול סטנט ומתי, עורק ורטברלי, היצרות תוך-גולגולתית וטיפול תרופתי אגרסיבי | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>קרוטיס סימפטומטית וא-סימפטומטית, CEA מול סטנט ומתי, עורק ורטברלי, היצרות תוך-גולגולתית וטיפול תרופתי אגרסיבי | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st10_221cbe92.mp3" length="30605003" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st10_221cbe92.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:10:00 +0000</pubDate>
+      <itunes:duration>00:30:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 9 – מניעה שניונית</title>
+      <description>נוגדי טסיות ו-DAPT קצר, יעדי לחץ דם, סטטינים ו-LDL, סוכרת, אורח חיים, ומה עושים כשחולה מקבל שבץ חוזר על אספירין | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>נוגדי טסיות ו-DAPT קצר, יעדי לחץ דם, סטטינים ו-LDL, סוכרת, אורח חיים, ומה עושים כשחולה מקבל שבץ חוזר על אספירין | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st9_b011fe39.mp3" length="29491076" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st9_b011fe39.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:09:00 +0000</pubDate>
+      <itunes:duration>00:29:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 8 – פרפור עליות ותסחיף מהלב</title>
+      <description>מניעה ראשונית ושניונית ב-AF, DOAC מול warfarin, מתי להתחיל נוגדי קרישה אחרי שבץ, סגירת אוזנית, PFO, אנדוקרדיטיס ומסתמים תותבים | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>מניעה ראשונית ושניונית ב-AF, DOAC מול warfarin, מתי להתחיל נוגדי קרישה אחרי שבץ, סגירת אוזנית, PFO, אנדוקרדיטיס ומסתמים תותבים | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st8_a7576a38.mp3" length="32950125" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st8_a7576a38.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:08:00 +0000</pubDate>
+      <itunes:duration>00:33:23</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 7 – הבירור: הדמיה, כלי דם ולב</title>
+      <description>CT, CTA ופרפוזיה, MRI ו-DWI, הדמיית כלי דם מהצוואר ועד הגולגולת, אקו לב, ניטור קצב ארוך, ובדיקות דם – מה צריך כל חולה ומתי להרחיב | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>CT, CTA ופרפוזיה, MRI ו-DWI, הדמיית כלי דם מהצוואר ועד הגולגולת, אקו לב, ניטור קצב ארוך, ובדיקות דם – מה צריך כל חולה ומתי להרחיב | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st7_07e17d00.mp3" length="30556473" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st7_07e17d00.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:07:00 +0000</pubDate>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 6 – טיפול חריף ב: צנתור מוחי</title>
+      <description>תרומבקטומיה בחסימת עורק גדול: מי מתאים, הדמיה לבחירת חולים, החלון המאוחר, ליבה גדולה, חסימה בזילרית ומה קורה אחרי הפעולה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>תרומבקטומיה בחסימת עורק גדול: מי מתאים, הדמיה לבחירת חולים, החלון המאוחר, ליבה גדולה, חסימה בזילרית ומה קורה אחרי הפעולה | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st6_3c46ba6d.mp3" length="32014732" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st6_3c46ba6d.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:06:00 +0000</pubDate>
+      <itunes:duration>00:32:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 5 – טיפול חריף א: תרומבוליזה</title>
+      <description>alteplase ו-tenecteplase: חלון הזמן, בחירת חולים, התוויות נגד, יעדי לחץ דם, ניהול דימום, שבץ בהתעוררות ויחידות שבץ ניידות | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>alteplase ו-tenecteplase: חלון הזמן, בחירת חולים, התוויות נגד, יעדי לחץ דם, ניהול דימום, שבץ בהתעוררות ויחידות שבץ ניידות | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st5_f63b8587.mp3" length="29619409" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st5_f63b8587.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:05:00 +0000</pubDate>
+      <itunes:duration>00:29:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 4 – מנגנוני השבץ: עורק גדול, כלי דם קטנים, תסחיף מהלב ומקור לא ידוע</title>
+      <description>למה המנגנון קובע את הטיפול: אטרותרומבוזיס, לקונות ומחלת כלי דם קטנים, מקורות תסחיפיים מהלב, ו-ESUS | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>למה המנגנון קובע את הטיפול: אטרותרומבוזיס, לקונות ומחלת כלי דם קטנים, מקורות תסחיפיים מהלב, ו-ESUS | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st4_a3695092.mp3" length="28942801" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st4_a3695092.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:04:00 +0000</pubDate>
+      <itunes:duration>00:29:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 3 – תסמונות של המחזור האחורי</title>
+      <description>ורטברו-בזילרי, גזע המוח, צרבלום ותלמוס: Wallenberg, top of the basilar, locked-in, ולמה שבץ אחורי מתפספס | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>ורטברו-בזילרי, גזע המוח, צרבלום ותלמוס: Wallenberg, top of the basilar, locked-in, ולמה שבץ אחורי מתפספס | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st3_85de6e9c.mp3" length="29538326" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st3_85de6e9c.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:03:00 +0000</pubDate>
+      <itunes:duration>00:29:50</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 2 – תסמונות של המחזור הקדמי</title>
+      <description>ICA, MCA ו-ACA: לוקליזציה מהמיטה, הבדלים בין המיספרה דומיננטית ולא דומיננטית, אזורי גבול ותסמונות אופטלמיות של הקרוטיד | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>ICA, MCA ו-ACA: לוקליזציה מהמיטה, הבדלים בין המיספרה דומיננטית ולא דומיננטית, אזורי גבול ותסמונות אופטלמיות של הקרוטיד | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st2_7bf56ca5.mp3" length="30178219" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st2_7bf56ca5.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:02:00 +0000</pubDate>
+      <itunes:duration>00:30:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>שבץ מוחי פרק 1 – יסודות: אפידמיולוגיה, גורמי סיכון, הפנומברה ו-TIA</title>
+      <description>פתיחת סדרת השבץ: מי בסיכון, מה קורה לרקמה בדקות הראשונות, ההגדרה המודרנית של TIA והערכת הסיכון שאחריו | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</description>
+      <itunes:summary>פתיחת סדרת השבץ: מי בסיכון, מה קורה לרקמה בדקות הראשונות, ההגדרה המודרנית של TIA והערכת הסיכון שאחריו | תוכן זה הופק אוטומטית באמצעות בינה מלאכותית (AI) ועלול להכיל טעויות; אין לראות בו ייעוץ רפואי.</itunes:summary>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <enclosure url="https://johnn12389.github.io/xknsvpwwtpcz/audio/st1_ab14758b.mp3" length="30302814" type="audio/mpeg"/>
+      <guid isPermaLink="false">nbk-private-st1_ab14758b.mp3</guid>
+      <pubDate>Fri, 20 Nov 2026 07:01:00 +0000</pubDate>
+      <itunes:duration>00:30:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
